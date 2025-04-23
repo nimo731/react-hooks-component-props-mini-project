@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hooks-component-props-mini-project/static/css/main.e5f461f7.css",
+    "main.js": "/react-hooks-component-props-mini-project/static/js/main.5977cf15.js",
+    "index.html": "/react-hooks-component-props-mini-project/index.html",
+    "main.e5f461f7.css.map": "/react-hooks-component-props-mini-project/static/css/main.e5f461f7.css.map",
+    "main.5977cf15.js.map": "/react-hooks-component-props-mini-project/static/js/main.5977cf15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5f461f7.css",
+    "static/js/main.5977cf15.js"
+  ]
+}
